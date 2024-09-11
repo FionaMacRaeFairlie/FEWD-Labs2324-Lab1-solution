@@ -12,7 +12,7 @@ const Modules = () => {
     <ul>
       <CurrentModule
         name="Honours Project"
-        moduleLeader="x"
+        moduleLeader="Jim Paterson"
         credits={40}
       ></CurrentModule>
       <CurrentModule
@@ -26,8 +26,8 @@ const Modules = () => {
         credits={20}
       />
       <CurrentModule
-        name="Secure Software Development"
-        moduleLeader="Ryan Gibson"
+        name="Programming Paradigms"
+        moduleLeader="Mario Mata"
         credits={20}
       />
       <CurrentModule
